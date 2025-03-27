@@ -1,6 +1,6 @@
 - I’m interested in learning anything that I can, always.
 
-<h1>About Me/ Sobre Mim</h1>
+<h1>About Me / Sobre Mim</h1>
 
 <p>
   <ul>
@@ -11,7 +11,7 @@
   </ul>
 </p>
 
-<h1>My Stats/ Meus Status</h1>
+<h1>My Stats / Meus Status</h1>
 
 ![Stats/ Status](https://github-readme-stats.vercel.app/api?username=LilPuppet&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
