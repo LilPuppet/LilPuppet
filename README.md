@@ -13,9 +13,9 @@
 
 <h1>My Stats/ Meus Status</h1>
 
-![Stats/ Status](https://github-readme-stats.vercel.app/api?username=queirozPedro&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Stats/ Status](https://github-readme-stats.vercel.app/api?username=LilPuppet&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
-![Languages/ Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=queirozPedro&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![Languages/ Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LilPuppet&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 <!---
 LilPuppet/LilPuppet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
