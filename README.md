@@ -17,7 +17,7 @@
 
 ![Languages/ Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LilPuppet&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
-![Colaboration/ Colaboração](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LilPuppet&theme=tokyonight)
+![Colaboration/ Colaboração](https://github-readme-stats.vercel.app/api/pin/?username=LilPuppet&repo=NOME_DO_REPOSITORIO&theme=tokyonight)
 
 <!---
 LilPuppet/LilPuppet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
